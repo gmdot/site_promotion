@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Galada&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 100%;
+    align-items: center;
+}
+
+header a {
+    text-decoration: none;
+    color: #fff;
+    transition: all 0.5s ease-out;
+}
+header a:hover {
+    color: #355d65;
+}
+
+header h1 {
+    background-color: #6CC2D4;
+    font-family: "Galada", sans-serif;
+    font-size: 52px;
+    padding: 12px 50px;
+}
+
+.options {
+    float: right;
+    margin-top: -70px;
+    margin-right: 55px;
+}
+.options ul {
+    display: flex;
+    list-style-type: none;
+}
+.options li {
+    margin: 0px 15px;
+    font-size: 20px;
+    font-family: "Oswald", sans-serif;
+    font-weight: 300;
+}
+
+.promotion {
+    font-family: "Oswald", sans-serif;
+    color: #6CC2D4;
+    text-align: center;
+    margin-top: 40px;
+}
+.promotion p {
+    font-size: 20px;
+}
+.promotion button {
+    border: none;
+    outline: none;
+    padding: 10px;
+    background-color: #6CC2D4;
+    border-radius: 4px;
+    margin-top: 10px;
+    cursor: pointer;
+    transition: all 0.4s ease;
+}
+.promotion button:hover {
+    font-size: 16px;
+}
+.promotion a {
+    text-decoration: none;
+    color: #fff;
+}
+.packages {
+    margin: 20px 40px;
+}
+.packages h2 {
+    font-size: 28px;
+    font-family: "Oswald", sans-serif;
+    color: #6CC2D4;
+}
+.travels {
+    display: flex;
+    margin: 10px;
+}
+.image-travel {
+    width: 250px;
+    height: 380px;
+    border-radius: 5px;
+}
+.city-travel {
+    margin: 10px 72px;
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+    font-size: 20px;
+    position: relative;
+    transition: all 0.3s ease;
+}
+.city-travel:hover {
+    margin-top: -0px;
+}
+.city-travel a {
+    text-decoration: none;
+    color: #6CC2D4;
+}
+.city-travel a:hover {
+    text-decoration: underline;
+}
+.city-travel p {
+    font-size: 16px;
+    color: #355d65;
+}
