@@ -109,7 +109,7 @@ header h1 {
     color: #355d65;
 }
 .nome-hotel {
-    width: 500px;
+    width: 400px;
     height: 200px;
     margin: -35rem auto;
     color: #fff;
@@ -126,4 +126,15 @@ header h1 {
     font-weight: 300;
     font-family: "Oswald", sans-serif;
     text-align: center;
+}
+.valor {
+    width: 400px;
+    height: 80px;
+    background-color: #355d65;
+    color: #fff;
+    font-family: "Oswald", sans-serif;
+    margin: 30px auto;
+    position: absolute;
+    text-align: center;
+    opacity: 80%;
 }
