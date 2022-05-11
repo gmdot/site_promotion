@@ -138,3 +138,32 @@ header h1 {
     text-align: center;
     opacity: 80%;
 }
+.informations {
+    width: 400px;
+    background-color: #355d65;
+    color: #fff;
+    font-family: "Oswald", sans-serif;
+    margin: 8rem auto;
+    position: absolute;
+    text-align: center;
+    opacity: 90%;
+}
+.informations h2 {
+    font-size: 20px;
+    padding: 10px 0px;
+}
+.promocao button {
+    border: none;
+    outline: none;
+    padding: 10px;
+    font-family: "Oswald", sans-serif;
+    font-size: 20px;
+    color: #fff;
+    background-color: #355d65;
+    margin: 22rem -22rem auto;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: all 0.3s ease;
+    font-weight: 300;
+    position: relative;
+}
