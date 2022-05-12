@@ -2,7 +2,7 @@
 
 Eu fiz esse repositório para apresentar um trabalho de inglês em que consiste em fazer uma propaganda de viagem, eu escolhi fazer um site exibindo a propaganda junto com uma promoção
 
-<p style={font-size: 28px}>🇧🇷</p>
+<p style={font-size:28px}>🇧🇷</p>
 <h2>Página 1</h2>
  <img src="https://user-images.githubusercontent.com/71733368/168125201-ed8af1a8-02c3-43ac-8e83-a08e819c6079.png" width="550px"/>
 <h2>Página 2</h2>
